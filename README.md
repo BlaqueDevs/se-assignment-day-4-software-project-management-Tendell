@@ -21,7 +21,12 @@ Gantt charts are visual representations of tasks plotted against time. They repr
 
 Gantt charts show how work on a project can only begin after another task has been completed. Managers can use this data to better understand project obstacles and make key decisions about how to take a project ahead.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+Our software primarily focuses on addressing the issue of inefficient project management and poor collaboration within teams, particularly for complex, cross-functional projects, by providing a centralized platform for task tracking, communication, and document sharing. This is critical for our target audience, which includes project managers and teams in fast-paced environments, as it helps them streamline workflows, improve visibility into project progress, and ultimately deliver projects on time and within budget, mitigating the common challenges of miscommunication, missed deadlines, and unnecessary rework. 
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
