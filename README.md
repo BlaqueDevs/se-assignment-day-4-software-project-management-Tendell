@@ -5,7 +5,12 @@
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is ideal for projects with unknowns, high risk, or frequently changing requirements. On the other hand, waterfall's structured, organized approach works best for projects with well-defined requirements and a clear end goal.
+
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Software quality assurance (SQA) involves various activities, such as writing unit tests, running the tests, and refactoring the code, to ensure that the software product is of high quality. Risk-based approach: Last but not least, the risk-based approach to SQA involves identifying and managing the risks associated with the software product.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
 Defining the project scope is crucial for successful project planning because it clearly outlines the boundaries of what is included in the project, ensuring everyone involved understands what needs to be delivered, which helps manage expectations, allocate resources efficiently, and prevent scope creep by clearly defining what is "in" and "out" of the project; a Work Breakdown Structure (WBS) is a hierarchical tool that breaks down the project scope into smaller, manageable tasks, allowing for better planning, cost estimation, resource allocation, and progress tracking by visually representing all project components and deliverables within the defined scope. 
